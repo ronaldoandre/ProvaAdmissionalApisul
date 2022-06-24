@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNmEX1bYbaeqB+iixFxbidWtG1HBLqZ8SnuKxNGNifc0/RRRQ1MOt5xIgapYa2YHhQ5CTdIDvbXzypRxa8NTHw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\Elevador\\Elevador\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\repos\Elevador\Elevador\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+D:\repos\Elevador\Elevador\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Elevador\Elevador\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\repos\Elevador\Elevador\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\repos\Elevador\Elevador\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\repos\Elevador\Elevador\Service\bin\Debug\net5.0\Service.deps.json
+D:\repos\Elevador\Elevador\Service\bin\Debug\net5.0\Service.dll
+D:\repos\Elevador\Elevador\Service\bin\Debug\net5.0\ref\Service.dll
+D:\repos\Elevador\Elevador\Service\bin\Debug\net5.0\Service.pdb
+D:\repos\Elevador\Elevador\Service\bin\Debug\net5.0\Data.dll
+D:\repos\Elevador\Elevador\Service\bin\Debug\net5.0\Domain.dll
+D:\repos\Elevador\Elevador\Service\bin\Debug\net5.0\Data.pdb
+D:\repos\Elevador\Elevador\Service\bin\Debug\net5.0\Domain.pdb
+D:\repos\Elevador\Elevador\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+D:\repos\Elevador\Elevador\Service\obj\Debug\net5.0\Service.dll
+D:\repos\Elevador\Elevador\Service\obj\Debug\net5.0\ref\Service.dll
+D:\repos\Elevador\Elevador\Service\obj\Debug\net5.0\Service.pdb
